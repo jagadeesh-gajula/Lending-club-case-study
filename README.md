@@ -1,2 +1,3 @@
 # Lending-club-case-study
-Assignment
+
+Risk Analysis
